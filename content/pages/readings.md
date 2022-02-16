@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2acf873a-8b15-cab1-1ecf-e307c1a11ad9
 ---
@@ -44,7 +47,7 @@ No assigned readings. Check out the [_Financial Times_](http://www.ft.com/).
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Foundations
 {{< tdclose >}}
 {{< tdopen >}}
@@ -80,7 +83,7 @@ Obstfeld, Maurice. "[The Global Capital Market: Benefactor or Menace](http://www
 {{< tdopen >}}
 5
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Globalization and domestic politics
 {{< tdclose >}}
 {{< tdopen >}}
@@ -128,7 +131,7 @@ No assigned readings. In-class discussion.
 {{< tdopen >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 The politics of foreign direct investment
 {{< tdclose >}}
 {{< tdopen >}}
@@ -167,7 +170,7 @@ Scheve, Kenneth, and Matthew J. Slaughter. "Economic Insecurity and the Globaliz
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Exchange rates and currency crises
 {{< tdclose >}}
 {{< tdopen >}}
@@ -213,7 +216,7 @@ Frieden, Jeffry A. _Global Capitalism._ pp. 385-391.
 {{< tdopen >}}
 17
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 International governance
 {{< tdclose >}}
 {{< tdopen >}}
@@ -226,7 +229,7 @@ Simmons, Beth. "The International Politics of Harmonization: The Case of Capital
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Wyplosz, Charles. "International Financial Instability." In _Global Public Goods: International Cooperation in the 21st Century_. Edited by Inge Kaul, Isabelle Grunberg, and Marc Stern. New York, NY: United Nations Development Program, 1999, pp. 152-189. ISBN: 9780195130522.
+Wyplosz, Charles. "International Financial Instability." In _Global Public Goods: International Cooperation in the 21{{< sup "st" >}} Century_. Edited by Inge Kaul, Isabelle Grunberg, and Marc Stern. New York, NY: United Nations Development Program, 1999, pp. 152-189. ISBN: 9780195130522.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +246,7 @@ Rogoff, Kenneth. "[International Institutions for Reducing Global Financial Inst
 {{< tdopen >}}
 20
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Finance and the developing world
 {{< tdclose >}}
 {{< tdopen >}}
