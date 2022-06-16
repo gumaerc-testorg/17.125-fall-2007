@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  about course requirements, grading, the required text, and the schedule of lecture
+  topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -35,11 +38,11 @@ Two essays (approx. ten pages each) on assigned topics related to the readings. 
 
 ### Reaction Papers
 
-Three "reaction papers" (2 pages each) in which you synthesize, criticize, and react to the readings assigned for a class meeting. Please see [assignments]({{< baseurl >}}/pages/assignments) for more details.
+Three "reaction papers" (2 pages each) in which you synthesize, criticize, and react to the readings assigned for a class meeting. Please see {{% resource_link b651f6f0-c269-6508-8d6f-39112292f0f7 "assignments" %}} for more details.
 
 ### Class Participation
 
-Each student will be assigned to introduce the readings and pose questions for class discussion at least once during the semester. Please see [study materials]({{< baseurl >}}/pages/study-materials) for more details.
+Each student will be assigned to introduce the readings and pose questions for class discussion at least once during the semester. Please see {{% resource_link 900b88d9-843f-63ba-8acc-d1bec17308c8 "study materials" %}} for more details.
 
 Grading
 -------
@@ -90,7 +93,7 @@ Class participation
 Required Text
 -------------
 
-Required readings are listed in the [readings]({{< baseurl >}}/pages/readings) section. There is one required book:
+Required readings are listed in the {{% resource_link 2acf873a-8b15-cab1-1ecf-e307c1a11ad9 "readings" %}} section. There is one required book:
 
 Frieden, Jeffry A. _Global Capitalism: Its Fall and Rise in the Twentieth Century_. New York, NY: W.W. Norton, 2007. ISBN: 9780393329810.
 
