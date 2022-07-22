@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about essays and reaction papers assigned
+  for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b651f6f0-c269-6508-8d6f-39112292f0f7
 ---
@@ -9,7 +14,7 @@ Essays
 
 _Length: 10 pages each_
 
-You are required to write two long essays. In each essay, select two [readings]({{< baseurl >}}/pages/readings) that address similar topics. Discuss how the authors' arguments complement or contradict each other. Can both authors be right? Can their arguments be integrated into one framework, or are they necessarily in opposition? Finally, take a stand on which argument you find most compelling; be clear about your reasons.
+You are required to write two long essays. In each essay, select two {{% resource_link 2acf873a-8b15-cab1-1ecf-e307c1a11ad9 "readings" %}} that address similar topics. Discuss how the authors' arguments complement or contradict each other. Can both authors be right? Can their arguments be integrated into one framework, or are they necessarily in opposition? Finally, take a stand on which argument you find most compelling; be clear about your reasons.
 
 Reaction Papers
 ---------------

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about the required text and the readings
+  assigned for each session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2acf873a-8b15-cab1-1ecf-e307c1a11ad9
 ---
@@ -44,7 +49,7 @@ No assigned readings. Check out the [_Financial Times_](http://www.ft.com/).
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Foundations
 {{< tdclose >}}
 {{< tdopen >}}
@@ -80,7 +85,7 @@ Obstfeld, Maurice. "[The Global Capital Market: Benefactor or Menace](http://www
 {{< tdopen >}}
 5
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Globalization and domestic politics
 {{< tdclose >}}
 {{< tdopen >}}
@@ -128,7 +133,7 @@ No assigned readings. In-class discussion.
 {{< tdopen >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 The politics of foreign direct investment
 {{< tdclose >}}
 {{< tdopen >}}
@@ -167,7 +172,7 @@ Scheve, Kenneth, and Matthew J. Slaughter. "Economic Insecurity and the Globaliz
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Exchange rates and currency crises
 {{< tdclose >}}
 {{< tdopen >}}
@@ -213,7 +218,7 @@ Frieden, Jeffry A. _Global Capitalism._ pp. 385-391.
 {{< tdopen >}}
 17
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 International governance
 {{< tdclose >}}
 {{< tdopen >}}
@@ -226,7 +231,7 @@ Simmons, Beth. "The International Politics of Harmonization: The Case of Capital
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Wyplosz, Charles. "International Financial Instability." In _Global Public Goods: International Cooperation in the 21st Century_. Edited by Inge Kaul, Isabelle Grunberg, and Marc Stern. New York, NY: United Nations Development Program, 1999, pp. 152-189. ISBN: 9780195130522.
+Wyplosz, Charles. "International Financial Instability." In _Global Public Goods: International Cooperation in the 21{{< sup "st" >}} Century_. Edited by Inge Kaul, Isabelle Grunberg, and Marc Stern. New York, NY: United Nations Development Program, 1999, pp. 152-189. ISBN: 9780195130522.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +248,7 @@ Rogoff, Kenneth. "[International Institutions for Reducing Global Financial Inst
 {{< tdopen >}}
 20
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Finance and the developing world
 {{< tdclose >}}
 {{< tdopen >}}
@@ -260,7 +265,7 @@ Haggard, Stephan, and Sylvia Maxfield. "The Political Economy of Financial Inter
 
 International Monetary Fund. "[What is the IMF?](http://www.imf.org/external/pubind.htm)" September 2006.
 
-Hausmann, Ricardo, and Eduardo Fernandez-Arias. "What's Wrong With International Financial Markets?" Inter-American Development Bank Working Paper 429. Presented at the Tenth International Forum on Latin American Perspectives, Paris, France, November 25-26, 1999. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/d2b8/b4427d0a4ce955029c8a1001e9bb1783c507.pdf))
+Hausmann, Ricardo, and Eduardo Fernandez-Arias. "What's Wrong With International Financial Markets?" Inter-American Development Bank Working Paper 429. Presented at the Tenth International Forum on Latin American Perspectives, Paris, France, November 25-26, 1999. ([PDF](https://pdfs.semanticscholar.org/d2b8/b4427d0a4ce955029c8a1001e9bb1783c507.pdf))
 
 
 {{< tdclose >}}
@@ -302,9 +307,9 @@ International financial crime
 {{< tdopen >}}
 
 
-Financial Action Task Force. "Trade Based Money Laundering." June 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.fatf-gafi.org/publications/methodsandtrends/documents/trade-basedmoneylaundering.html))
+Financial Action Task Force. "Trade Based Money Laundering." June 2006. ([PDF](https://www.fatf-gafi.org/publications/methodsandtrends/documents/trade-basedmoneylaundering.html))
 
-———. Report on Money Laundering Typologies. February 1997. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.fatf-gafi.org/dataoecd/31/29/34043795.pdf))
+———. Report on Money Laundering Typologies. February 1997. ([PDF](http://www.fatf-gafi.org/dataoecd/31/29/34043795.pdf))
 
 Wechsler, William F. "Follow the Money." _Foreign Affairs_ (July/August 2001).
 
